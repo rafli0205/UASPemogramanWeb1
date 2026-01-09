@@ -25,11 +25,6 @@ Fitur utama: login, kelola data buku (tambah, lihat, edit, hapus), dan logout.
 - `public/` : halaman yang diakses user (entry point, asset)
 - `vendor/` : dependency composer (jika tidak di-push, generate ulang via composer)
 
-## Akun Login (jika ada)
-- Admin:
-  - Username: admin@demo.com
-  - Password: admin123
-
 ## Screenshot Aplikasi
 
 ### 1) Halaman Login
